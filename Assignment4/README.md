@@ -1,6 +1,4 @@
 ## UVic CSC 360 Assignment 4
-Student Name: Haidan Liu
-Student Number: V00946959
 
 ### General strategy
 The struct page table entry is provided by the instructor. Modified the page table entry struct by adding attributes lfu
