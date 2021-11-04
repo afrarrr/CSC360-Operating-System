@@ -1,6 +1,4 @@
 ### CSC360 Assignment1 
-Student Name: Haidan Liu 
-Student Id: V00946959
 
 This assignment implements a simlple unix shell vsh using c language. The vsh shell has following features. 
 
