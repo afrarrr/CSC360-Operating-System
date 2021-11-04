@@ -1,7 +1,3 @@
-### Student name: Haidan Liu
-### Student number: V00946959
-
-
 ## Part A The Vaccination Station  
 
 The text file contains all information of people that will get vaccined at the vaccination ceter.
