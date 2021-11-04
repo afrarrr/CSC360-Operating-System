@@ -1,7 +1,4 @@
 # UVic CSC 360 Assignment 3
-Student Name: Haidan Liu
-Student Number: V00946959
-
 #### Handle instruction from the provided file
 When read an instruction with burst time is zero, which represents that the task was just created.
 Then we create a newtask, and add it to the task table.
